@@ -1,4 +1,4 @@
 # Hallo-Welt
 Erste Schritte mit github.
 
-Diese Branch wird mit VSC gemacht.
+Die README-Datei wurde geupdatet.
